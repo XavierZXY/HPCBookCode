@@ -65,7 +65,7 @@ s%@AUTOCONF@%autoconf%g
 s%@AUTOHEADER@%autoheader%g
 s%@AWK@%/usr/bin/mawk%g
 s%@SH@%/usr/bin/sh%g
-s%@MKDIR@%/home/zxy/codes/HPCBookCode/ndiff-2.00/mkdir.sh%g
+s%@MKDIR@%/home/zxy/codes/HPCBookCode/Tools/ndiff-2.00/mkdir.sh%g
 s%@CAT@%cat%g
 s%@CHECKNR@%echo%g
 s%@CHECKSUM@%cat%g
